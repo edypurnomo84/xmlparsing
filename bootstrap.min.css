@@ -1,0 +1,20 @@
+.button {
+    background-color: #A9A9A9;
+    border: none;
+    color: blue;
+	height: 30px;
+	width: 100px;
+    padding: 7px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 2px 2px;
+	round: 8px;
+    cursor: pointer;
+}
+.textarea{
+	height: 25px;
+	width: 200px;
+	font-size: 12px;
+}
